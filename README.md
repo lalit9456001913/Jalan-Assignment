@@ -2,8 +2,8 @@
 
 
 # Runnig steps
-   prerequisites for running this program on editor
-   you should have nodejs environment
+   # prerequisites for running this program on editor
+   # you should have nodejs environment
    the command for running this  file is 
        node TicketSystem.js
 
